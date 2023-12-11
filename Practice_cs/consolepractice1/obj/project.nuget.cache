@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0h0FOQsRbRCLJVdYSQkX5xssqws4YIAi8Il+07H9RZL82ojVBeY1ic/jMNIGL0RpWA6+Ww8RVRY9tzg16tVSLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sueda\\Desktop\\yazılım-tahsin\\.NET\\c#\\practices\\consolepractice1\\consolepractice1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sueda\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sueda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sueda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sueda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
