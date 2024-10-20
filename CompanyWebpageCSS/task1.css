@@ -1,0 +1,53 @@
+/*************** Layout ************/
+
+body{
+    margin: 0; 
+    font-family: "Sofia Sans", sans-serif;
+    background-color: beige;
+}
+/*a class for bold property */
+.bold {
+    font-weight: bold;
+}
+
+header {
+    padding: 1px;
+    text-align: left;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+    font-optical-sizing: auto;
+    
+  }
+
+
+ul {
+    list-style-type: none; /* remove list assign */
+}
+
+nav ul {
+ 
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline; /* place elemets horizontally */
+    margin-right: 5px;
+    list-style-position: inside; 
+    font-size: 20px;
+}
+/* Style for Links */
+nav ul li a {
+    color: white; /* white color*/
+    text-decoration: none; /*remove underline */
+    padding: 5px; 
+}
+
+.about-text {
+    margin: 0 30px; /* Soldan ve sağdan 20px boşluk bırak */
+    text-align: justify; /* Metni iki yana yasla */
+    line-height: 1.6; /* Satırlar arasında rahat bir boşluk bırak */
+}
+
