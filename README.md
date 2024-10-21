@@ -10,6 +10,9 @@ A fictional company webpage built using only HTML and CSS. This project focuses 
 ### 2. [Old Google Homepage Clone](02ClassicGooglePageCSS/readme.md)
 A replica of Google's old homepage designed using HTML and CSS. This project recreates the minimalist design and layout, with attention to detail in styling and positioning elements.
 
+### 3. [Company Webpage (Bootstrap)](03CompanyWebpageBootstrap/readme.md)
+The focus of the project is to practice and implement Bootstrap's fundamental layout features such as Breakpoints, Container System, Grid Structure
+
 ## Technologies Used
 - **HTML5**
 - **CSS3**
