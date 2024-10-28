@@ -1,6 +1,6 @@
 # WebDevPracticeFiles
 
-This repository contains various web development projects created as part of my practice in HTML, CSS, and Bootstrap.
+This repository contains various web development projects created as part of my practice in HTML, CSS, Bootstrap and JavaScript
 
 ## Projects
 
@@ -13,7 +13,11 @@ A replica of Google's old homepage designed using HTML and CSS. This project rec
 ### 3. [Company Webpage (Bootstrap)](03CompanyWebpageBootstrap/readme.md)
 The focus of the project is to practice and implement Bootstrap's fundamental layout features such as Breakpoints, Container System, Grid Structure
 
+### 4. [Dynamic Clock (JavaScript)](04DynamicClockjavascript/readme.md)
+This project demonstrates the use of JavaScript for creating a live clock with personalized greetings, showcasing date handling, DOM manipulation, and real-time updates.
+
 ## Technologies Used
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
+- **JavaScript**
