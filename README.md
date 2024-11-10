@@ -16,6 +16,9 @@ The focus of the project is to practice and implement Bootstrap's fundamental la
 ### 4. [Dynamic Clock (JavaScript)](04DynamicClockjavascript/readme.md)
 This project demonstrates the use of JavaScript for creating a live clock with personalized greetings, showcasing date handling, DOM manipulation, and real-time updates.
 
+### 5. [Food Menu (Javascript)](05FoodMenü(Javascript)/readme.md)
+This project is a dynamic web application that showcases a restaurant menu and allows users to filter menu items by category using buttons. The project demonstrates key development concepts of Javascript such as Array methods (map(), filter()), DOM manipulation, Event Handling.
+
 ## Technologies Used
 - **HTML5**
 - **CSS3**
