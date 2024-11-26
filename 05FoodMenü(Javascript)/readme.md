@@ -1,5 +1,7 @@
 # Menu Display and Filtering Project
 
+You can check out the project [here](https://fastfoodmenu1.netlify.app/)
+
 This project is a dynamic web application that showcases a restaurant menu and allows users to filter menu items by category using buttons. The project demonstrates key development concepts of Javascript,including:
 
 - **Array Methods**: Utilized methods like map() and filter() to dynamically create unique category buttons and filter menu items based on user selection.
