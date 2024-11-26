@@ -1,5 +1,7 @@
 # Web Page for a Company
 
+You can check out the project [here](https://tokwebpage.netlify.app)
+
 This project is a redesign and improvement of the [CompanyWebpageCSS](https://github.com/Tahsintok/WebDevPracticeFiles/blob/main/CompanyWebpageCSS/readme.md), utilizing Bootstrap to enhance the structure and layout. The focus of the project is to practice and implement Bootstrap's fundamental layout features, including:
 
 * **Breakpoints** : Responsive design adjustments for different screen sizes.
